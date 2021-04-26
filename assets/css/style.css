@@ -109,7 +109,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/* benifit-brand  Style End */
+/* benifit-brand Section Style End */
 
 /* benifit-cost Section Style Start */
 .benefit-cost {
@@ -125,9 +125,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/* benifit-cost  Style End */
+/* benifit-cost Section Style End */
 
-/* bsearch-engine-optimization Section Style Start */
+/* search-engine-optimization Style Start */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -145,7 +145,7 @@ p {
 }
 /* search-engine-optimization  Style End */
 
-/* .online-reputation-management Section Style Start */
+/* .online-reputation-management Style Start */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -161,9 +161,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* .online-reputation-management  Style End */
+/* .online-reputation-management Style End */
 
-/* social-media-marketing Section Style Start */
+/* social-media-marketing Style Start */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -179,7 +179,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* social-media-marketing  Style End */
+/* social-media-marketing Style End */
 
 /* apply styles to <footer> */
 .footer {
